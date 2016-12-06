@@ -1,0 +1,28 @@
+SubforumsInColumns
+Show subforums in columns.
+Author: Edson Ordaz
+Submitted: 19th April 2011
+Last Updated: 20th April 2011
+Plugin Name: Subforums In Columns
+Plugin Author: Edson Ordaz
+Plugin Website: http://www.mybb-es.com
+Plugin Version: 1.0
+Plugin Mybb Compatibility: 1.6x
+Plugin Language: English
+Plugin File Edits: No
+Plugin File Uploads: 1
+Plugin Description: Show subforums in columns.
+
+
+
+This plugin has a simple work ..
+
+What it does is put either subforums in columns 2, 3 or 5 columns that are configured from ACP.
+
+To select how many columns we choose we went to:
+
+Quote:
+Admin Panel -> Configuration -> Settings -> Subforums In Columns 
+
+
+Now updated to 1.1 for MyBB 1.8.x usage with added dropdown capability by: Vintagedaddyo
