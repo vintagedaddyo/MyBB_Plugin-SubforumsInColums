@@ -26,3 +26,13 @@ Admin Panel -> Configuration -> Settings -> Subforums In Columns
 
 
 Now updated to 1.1 for MyBB 1.8.x usage with added dropdown capability by: Vintagedaddyo
+
+Now updated to 1.2 for MyBB 1.8.x usage by: Vintagedaddyo
+
+Further localization support:
+
+- english
+- englishgb
+- espanol
+- french
+- italiano

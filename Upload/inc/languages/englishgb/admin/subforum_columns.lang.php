@@ -35,7 +35,6 @@ $l['description_0'] = 'Show subforums in columns.';
 $l['name_sic_1'] = 'SubforInCols';
 $l['title_sic_1'] = 'Columns';
 $l['description_sic_1'] = 'Enter how many columns you want to display the child boards.';
-
 //
 
 $l['options_1'] = '2 Columns';

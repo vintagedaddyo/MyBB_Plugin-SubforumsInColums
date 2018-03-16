@@ -8,7 +8,7 @@
  *
  * MyBB Version: 1.8
  *
- * Plugin Version: 1.1
+ * Plugin Version: 1.2
  * 
  */
 
@@ -53,22 +53,22 @@ function SubforInCols_activate()
 	global $db, $lang;
 	
 	$SubforInCols = array(
-		"gid"			=> "NULL",
+		"gid"			=> "0",
 		"name" => $lang->name_sic_0,
 		"title" => $lang->title_sic_0,
 		"description" => $lang->description_sic_0,
 		"disporder"		=> "0",
-		"isdefault"		=> "no",
+		"isdefault"		=> "0",
 	);
 	$db->insert_query("settinggroups", $SubforInCols);
 	$gid = $db->insert_id();
 	
 	$SubforInCols1 = array(
-		"sid"			=> "NULL",
+		"sid"			=> "0",
 		"name" => $lang->name_sic_1,
 		"title" => $lang->title_sic_1,
 		"description" => $lang->description_sic_1,
-		"optionscode"	=> "select \n50=2 Columns\n30=3 Columns\n20=5 Columns",
+		"optionscode"	=> "select \n50=".$lang->options_1."\n30=".$lang->options_2."\n20=".$lang->options_3."",
 		"value"			=> "30",
 		"disporder"		=> "1",
 		"gid"			=> intval($gid),

@@ -15,8 +15,8 @@
 
 // plugin_info
 
-$l['subforum_columns_Name'] = 'Subforums In Columns';
-$l['subforum_columns_Desc'] = 'Show subforums in columns now with dropdown.';
+$l['subforum_columns_Name'] = 'Sous-forums dans les colonnes';
+$l['subforum_columns_Desc'] = 'Afficher les sous-forums dans les colonnes maintenant avec une liste déroulante.';
 $l['subforum_columns_Web'] = 'http://community.mybb.com/user-6029.html';
 $l['subforum_columns_Auth'] = 'Edson Ordaz & updated by Vintagedaddyo';
 $l['subforum_columns_AuthSite'] = 'http://community.mybb.com/user-6029.html';
@@ -27,19 +27,19 @@ $l['subforum_columns_Compat'] = '18*';
 // 
 
 $l['name_sic_0'] = 'subincol';
-$l['title_sic_0'] = 'Subforums In Columns';
-$l['description_0'] = 'Show subforums in columns.';
+$l['title_sic_0'] = 'Sous-forums dans les colonnes';
+$l['description_0'] = 'Afficher les sous-forums dans les colonnes.';
 
 // 
 
 $l['name_sic_1'] = 'SubforInCols';
-$l['title_sic_1'] = 'Columns';
-$l['description_sic_1'] = 'Enter how many columns you want to display the child boards.';
+$l['title_sic_1'] = 'Colonnes';
+$l['description_sic_1'] = 'Entrez le nombre de colonnes que vous souhaitez afficher les tableaux enfants.';
 
 //
 
-$l['options_1'] = '2 Columns';
-$l['options_2'] = '3 Columns';
-$l['options_3'] = '5 Columns';
+$l['options_1'] = '2 Colonnes';
+$l['options_2'] = '3 Colonnes';
+$l['options_3'] = '5 Colonnes';
 
 ?>
